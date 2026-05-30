@@ -51,7 +51,7 @@ python3 fetch_list_memberonly.py
 
 ### ダウンロードと検証 (download_and_verify.py)
 
-`list_memberonly.json` または `list.json` に記載された動画・チャット・サムネイルを一括でダウンロードし、検証を行います。
+`list_memberonly.json` に記載された動画・チャット・サムネイルを一括でダウンロードし、検証を行います。
 スクリプト内の `JSON_FILE` 変数をご希望のリスト名に変更した上で実行してください。
 
 スクリプトを実行します。
