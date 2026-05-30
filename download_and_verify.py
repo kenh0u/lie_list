@@ -8,7 +8,7 @@ from glob import glob
 # ==========================================
 # 設定
 # ==========================================
-JSON_FILE = 'list_all_memberonly.json'
+JSON_FILE = 'list_memberonly.json'
 COOKIES_FILE = 'youtube.com_cookies.txt'
 OUTPUT_DIR = 'video'
 LOG_DIR = 'log'
